@@ -2,3 +2,4 @@ playwright
 aiohttp
 asyncio
 requests
+beautifulsoup4
